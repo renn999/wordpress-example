@@ -1,0 +1,32 @@
+body.mceContentBody{
+	font-size: 13px;
+}
+p{
+	margin-top: 10px;
+	line-height: 1.5;
+}
+a{
+	color: #258fb8;
+}
+blockquote{
+	border-left: 2px solid #258fb8;
+	padding: 0 10px;
+	margin: 5px 20px;
+	color: #666;
+}
+pre{
+	font-family: "Courier New", "Lucida Console", serif;
+	margin-top: 10px;
+}
+.wp-caption{
+	margin: 0 0 5px;
+	border: 1px solid #fff;
+	padding: 2px;
+	background: #fff;
+}
+.wp-caption-dd{
+	font-size: 11px;
+	text-align: center;
+	margin-top: 0;
+	padding: 1px;
+}

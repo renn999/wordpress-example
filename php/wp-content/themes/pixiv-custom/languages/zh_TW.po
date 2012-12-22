@@ -1,0 +1,1267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixiv Custom 2.1.3\n"
+"Report-Msgid-Bugs-To: \n"
+<<<<<<< Updated upstream
+"POT-Creation-Date: 2011-07-03 16:59+0800\n"
+"PO-Revision-Date: 2011-07-03 17:05+0800\n"
+=======
+"POT-Creation-Date: 2011-07-03 01:56+0800\n"
+"PO-Revision-Date: 2011-07-03 01:56+0800\n"
+>>>>>>> Stashed changes
+"Last-Translator: Tommy Chen <tommy351@gmail.com>\n"
+"Language-Team: SkyArrow <tommy351@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _c;_e;__;__ngettext:1,2;__ngettext_noop:1,2;esc_attr_e\n"
+"X-Poedit-Basepath: /Users/SkyArrow/Sites/wp/wp-content/themes/pixiv-custom\n"
+"Plural-Forms: nplurals=2; plural=n==1?0:1;\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: TAIWAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:3
+msgid "404 Not Found"
+msgstr "404 找不到"
+
+#: 404.php:5
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "抱歉，找不到您所要求的頁面，或許您可回到首頁，或透過搜尋功能尋求幫助。"
+
+#: archive.php:6
+msgid "Category"
+msgstr "分類"
+
+#: archive.php:10
+msgid "Tag"
+msgstr "標籤"
+
+#: archive.php:14
+#: loop-index.php:11
+#: single.php:16
+msgid "M jS, Y"
+msgstr "Y 年 m 月 d 日"
+
+#: archive.php:15
+#: archive.php:19
+#: archive.php:23
+#: sidebar-default.php:2
+msgid "Archives"
+msgstr "彙整"
+
+#: archive.php:18
+msgid "M, Y"
+msgstr "Y 年 m 月"
+
+#: archive.php:22
+msgid "Y"
+msgstr "Y 年"
+
+#: archive.php:26
+msgid "Author Archive"
+msgstr "作者彙整"
+
+#: archive.php:29
+msgid " search results"
+msgstr " 項搜尋結果"
+
+#: archive.php:33
+msgid "<h2>Blog Archives</h2>"
+msgstr "<h2>網誌彙整</h2>"
+
+#: comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "此文章受密碼保護，請輸入密碼以檢視留言。"
+
+#: comments.php:9
+msgid "Comments"
+msgstr "留言"
+
+#: comments.php:23
+msgid "&lt; Prev"
+msgstr "&laquo; 前頁"
+
+#: comments.php:23
+msgid "Next &gt;"
+msgstr "次頁 &raquo;"
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "留言功能已關閉。"
+
+#: comments.php:41
+msgid "Cancel"
+msgstr "取消"
+
+#: comments.php:48
+msgid "Trackbacks"
+msgstr "引用"
+
+#: comments.php:50
+msgid "Trackback URL"
+msgstr "引用網址"
+
+#: footer.php:6
+msgid "Page Top &uarr;"
+msgstr "回到頁首 &uarr;"
+
+#: footer.php:9
+msgid "Copyright"
+msgstr "版權所有"
+
+#: functions.php:7
+msgid "Sidebar 1 (Home)"
+msgstr "側邊欄 1 (首頁)"
+
+#: functions.php:15
+msgid "Sidebar 2 (Home)"
+msgstr "側邊欄 2 (首頁)"
+
+#: functions.php:17
+#: functions.php:34
+msgid "Only display when you select 3 columns layout."
+msgstr "僅在選擇 3 欄布局時顯示。"
+
+#: functions.php:24
+msgid "Sidebar 1 (Post)"
+msgstr "側邊欄 1 (文章)"
+
+#: functions.php:32
+msgid "Sidebar 2 (Post)"
+msgstr "側邊欄 2 (文章)"
+
+#: functions.php:44
+msgid "Menu (Main)"
+msgstr "選單 (主要)"
+
+#: functions.php:45
+msgid "Menu (Subscription)"
+msgstr "選單 (訂閱)"
+
+#: functions.php:46
+msgid "Menu (Footer)"
+msgstr "選單 (頁尾)"
+
+#: functions.php:81
+msgid "Platform"
+msgstr "平台"
+
+#: functions.php:86
+msgid "Xmas"
+msgstr "聖誕節"
+
+#: functions.php:91
+msgid "Beach"
+msgstr "海灘"
+
+#: functions.php:96
+msgid "Starry"
+msgstr "星辰"
+
+#: functions.php:101
+msgid "Sunset"
+msgstr "日落"
+
+#: functions.php:148
+#: functions.php:177
+#: loop-index.php:23
+msgid "Loading..."
+msgstr "載入中..."
+
+#: functions.php:149
+#: functions.php:178
+msgid "Error! Sorry, you have to manually refresh the page."
+msgstr "錯誤！抱歉，您必須親自重新整理頁面。"
+
+#: functions.php:163
+msgid "Submitting, please wait..."
+msgstr "發表中，請稍後..."
+
+#: functions.php:164
+msgid "Submit Complete"
+msgstr "發表完成"
+
+#: functions.php:165
+msgid "You can re-edit your comment before refreshing page."
+msgstr "您可在頁面重新整理前，重新編輯您的留言。"
+
+#: functions.php:166
+msgid "(Re-edit)"
+msgstr "(重新編輯)"
+
+#: functions.php:167
+msgid "Post Comment"
+msgstr "張貼迴響"
+
+#: functions.php:219
+msgid "&laquo; Prev"
+msgstr "&laquo; 前頁"
+
+#: functions.php:220
+msgid "Next &raquo;"
+msgstr "次頁 &raquo;"
+
+#: functions.php:265
+msgid "Notify me of follow-up comments via email"
+msgstr "當有回覆時用郵件通知我"
+
+#: functions.php:287
+msgid "(Moderating)"
+msgstr "(審核中)"
+
+#: functions.php:289
+msgid "(Admin)"
+msgstr "(管理員)"
+
+#: functions.php:291
+#: functions.php:312
+msgid "M jS, Y G:i"
+msgstr "Y 年 m 月 d 日 G:i"
+
+#: functions.php:295
+msgid "Quote"
+msgstr "引言"
+
+#: functions.php:296
+#: functions.php:313
+#: single.php:16
+msgid "Edit"
+msgstr "編輯"
+
+#: header.php:46
+#: header.php:61
+msgid "Enter the keyword"
+msgstr "輸入關鍵字"
+
+#: header.php:57
+#: header.php:70
+msgid "Search"
+msgstr "搜尋"
+
+#: loop-index.php:6
+#: page.php:6
+#: single.php:53
+msgid "Read More &raquo;"
+msgstr "閱讀全文 &raquo;"
+
+#: loop-index.php:35
+msgid "&laquo; Newer"
+msgstr "&laquo; 前頁"
+
+#: loop-index.php:36
+msgid "Older &raquo;"
+msgstr "次頁 &raquo;"
+
+#: search-failed.php:2
+msgid "No matching results"
+msgstr "沒有符合結果"
+
+#: search-failed.php:4
+msgid "You seem to have found a mis-linked page or search query with no matching results. Please trying your search again. If you feel that you should be staring at something a little more concrete, feel free to email the author of this site or browse the archives."
+msgstr "您可能網址輸入錯誤，或是所輸入的關鍵字沒有符合結果，請試著使用其他的關鍵字，或者返回首頁。"
+
+#: sidebar-author.php:3
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: sidebar-author.php:7
+msgid "Join my Facebook"
+msgstr "加入我的 Facebook"
+
+#: sidebar-author.php:10
+msgid "Follow my Plurk"
+msgstr "追蹤我的 Plurk"
+
+#: sidebar-author.php:13
+msgid "Follow my Twitter"
+msgstr "追蹤我的 Twitter"
+
+#: sidebar-author.php:16
+msgid "Subscribe RSS"
+msgstr "訂閱 RSS"
+
+#: sidebar-default.php:6
+msgid "Categories"
+msgstr "分類"
+
+#: sidebar-default.php:10
+msgid "Tag Cloud"
+msgstr "標籤雲"
+
+#: sidebar-default.php:14
+msgid "Meta"
+msgstr "其他"
+
+#: single.php:5
+#: single.php:12
+msgid "Home"
+msgstr "首頁"
+
+#: single.php:17
+msgid "Comments: 0"
+msgstr "留言：0"
+
+#: single.php:17
+msgid "Comments: 1"
+msgstr "留言：1"
+
+#: single.php:17
+msgid "Comments: %"
+msgstr "留言：%"
+
+#: single.php:22
+msgid "Tags"
+msgstr "標籤"
+
+#: single.php:27
+msgid "Share to Plurk"
+msgstr "分享至 Plurk"
+
+#: single.php:36
+msgid "More"
+msgstr "更多"
+
+#: single.php:47
+msgid "Share this"
+msgstr "分享文章"
+
+#: admin/admin.php:72
+#: admin/admin.php:138
+msgid "Header"
+msgstr "頁首"
+
+#: admin/admin.php:73
+#: admin/admin.php:139
+msgid "Reading"
+msgstr "閱讀"
+
+#: admin/admin.php:75
+#: admin/admin.php:141
+msgid "Sidebar"
+msgstr "側邊欄"
+
+#: admin/admin.php:76
+#: admin/admin.php:142
+msgid "Footer"
+msgstr "頁尾"
+
+#: admin/admin.php:77
+#: admin/admin.php:143
+msgid "Manual"
+msgstr "使用說明"
+
+#: admin/admin.php:95
+#: admin/admin.php:137
+msgid "Theme Options"
+msgstr "主題選項"
+
+#: admin/admin.php:149
+msgid "&radic; Saved"
+msgstr "&radic; 已儲存"
+
+#: admin/admin.php:156
+msgid "Save Changes"
+msgstr "儲存變更"
+
+#: admin/admin.php:157
+msgid "All current settings will be reset to defaults. Are you sure?"
+msgstr "目前的所有設定都將重設至預設值，您確定嗎？"
+
+#: admin/admin.php:157
+msgid "Reset to Deafults"
+msgstr "重設至預設值"
+
+#: admin/admin.php:169
+#: admin/admin.php:624
+msgid "Comment Reply Notification"
+msgstr "留言回覆通知"
+
+#: admin/admin.php:171
+msgid "&lowast; Be sure that your server support mail() function."
+msgstr "&lowast; 請確認您的伺服器支援 mail() 函數。"
+
+#: admin/admin.php:172
+msgid "You can edit the content of notification by the tags below:"
+msgstr "您可使用下列標籤編輯通知內容："
+
+#: admin/admin.php:174
+msgid "The name of your blog."
+msgstr "您的網誌的名稱。"
+
+#: admin/admin.php:175
+msgid "The name of the post."
+msgstr "該篇文章的名稱。"
+
+#: admin/admin.php:176
+msgid "The author of parent comment."
+msgstr "原留言的作者。"
+
+#: admin/admin.php:177
+msgid "The author of reply."
+msgstr "回應的作者。"
+
+#: admin/admin.php:178
+msgid "The content of parent comment."
+msgstr "原留言的內容。"
+
+#: admin/admin.php:179
+msgid "The content of reply."
+msgstr "回應的內容。"
+
+#: admin/admin.php:180
+msgid "The link of the comment."
+msgstr "留言的連結。"
+
+#: admin/admin.php:182
+msgid "Use HTML to configure your own notification. You can configure other advanced settings in \"function.php\", like the rules of sending, or whether to send notification to admin."
+msgstr "請使用 HTML 設定您的通知內容。您可以在 \"function.php\" 中設定其他的進階設定，如寄送規則、是否要寄送通知給管理員等。"
+
+#: admin/admin.php:248
+msgid "Choose the link color you like. Default is <code>#258fb8</code>."
+msgstr "選擇您喜好的連結顏色，預設值為 <code>#258fb8</code>。"
+
+#: admin/admin.php:249
+msgid "Color: #"
+msgstr "顏色：#"
+
+#: admin/admin.php:251
+msgid "Pick a color"
+msgstr "挑選顏色"
+
+#: admin/admin.php:256
+msgid "Custom the content of notification."
+msgstr "自定通知內容。"
+
+#: admin/admin.php:258
+msgid "You can use following tags: "
+msgstr "您可使用下列標籤："
+
+#: admin/admin.php:259
+msgid "To learn more, please visit \"Manual\" tab."
+msgstr "若要取得更多資訊，請參閱「使用說明」分頁。"
+
+#: admin/admin.php:260
+msgid "Subject: "
+msgstr "主旨："
+
+#: admin/admin.php:266
+msgid "Content: "
+msgstr "內容："
+
+#: admin/admin.php:266
+#: admin/admin.php:385
+#: admin/admin.php:559
+#: admin/admin.php:743
+msgid "(HTML is avalible.)"
+msgstr "(可使用 HTML 代碼。)"
+
+#: admin/admin.php:267
+msgid "Preview:"
+msgstr "預覽："
+
+#: admin/admin.php:270
+msgid "Subject:"
+msgstr "主旨："
+
+#: admin/admin.php:272
+msgid "(No Title)"
+msgstr "(無標題)"
+
+#: admin/admin.php:275
+msgid "From:"
+msgstr "寄件人："
+
+#: admin/admin.php:277
+msgid "(No Sender)"
+msgstr "(無寄件人)"
+
+#: admin/admin.php:309
+msgid "Menus"
+msgstr "選單"
+
+#: admin/admin.php:312
+msgid "Display the main (left) menu "
+msgstr "在標題 "
+
+#: admin/admin.php:313
+msgid " the title."
+msgstr " 顯示主要 (左側) 選單。"
+
+#: admin/admin.php:315
+msgid "beside"
+msgstr "旁"
+
+#: admin/admin.php:316
+msgid "under"
+msgstr "下"
+
+#: admin/admin.php:322
+msgid "Select which menu to display."
+msgstr "選擇所要顯示的選單。"
+
+#: admin/admin.php:322
+#: admin/admin.php:647
+#: admin/admin.php:734
+msgid "Edit menus"
+msgstr "編輯選單"
+
+#: admin/admin.php:326
+msgid "Main (Left)"
+msgstr "主要 (左側)"
+
+#: admin/admin.php:327
+msgid "Subscription (Right)"
+msgstr "訂閱 (右側)"
+
+#: admin/admin.php:328
+msgid "Both"
+msgstr "兩個都顯示"
+
+#: admin/admin.php:334
+msgid "Tagline"
+msgstr "副標題"
+
+#: admin/admin.php:335
+msgid "Display the tagline."
+msgstr "顯示副標題。"
+
+#: admin/admin.php:338
+#: admin/admin.php:347
+#: admin/admin.php:365
+#: admin/admin.php:388
+#: admin/admin.php:404
+#: admin/admin.php:498
+#: admin/admin.php:515
+#: admin/admin.php:573
+#: admin/admin.php:585
+#: admin/admin.php:594
+#: admin/admin.php:619
+#: admin/admin.php:628
+#: admin/admin.php:650
+#: admin/admin.php:737
+#: admin/admin.php:754
+msgid "Enable"
+msgstr "啟用"
+
+#: admin/admin.php:343
+msgid "Banner"
+msgstr "頁首圖片"
+
+#: admin/admin.php:344
+msgid "Display the banner."
+msgstr "顯示頁首圖片。"
+
+#: admin/admin.php:353
+msgid "Put the photos (980x200 px) in the folder <code>/headers</code>. When page is refreshed, the photos in the folder will be randomly displayed."
+msgstr "將圖片 (980x200 px) 放置於 <code>/headers</code> 資料夾，當頁面重新整理時將會隨機顯示資料夾內的圖片。"
+
+#: admin/admin.php:355
+msgid "Enable Random Banner"
+msgstr "啟用隨機頁首圖片"
+
+#: admin/admin.php:362
+msgid "Display search suggestions."
+msgstr "顯示搜尋建議。"
+
+#: admin/admin.php:362
+msgid "Edit tags"
+msgstr "編輯標籤"
+
+#: admin/admin.php:370
+msgid "Use Google Custom Search instead of default."
+msgstr "使用 Google 自訂搜尋取代系統預設搜尋。"
+
+#: admin/admin.php:373
+msgid "ID: "
+msgstr "ID: "
+
+#: admin/admin.php:384
+msgid "Notice"
+msgstr "公告"
+
+#: admin/admin.php:385
+msgid "Display the notice in home page."
+msgstr "在首頁顯示公告。"
+
+#: admin/admin.php:400
+msgid "Ads (Header)"
+msgstr "廣告 (頁首)"
+
+#: admin/admin.php:401
+msgid "To Display your ads in header, please enter the ads code below. (Max width is 960px)"
+msgstr "若要在頁首顯示廣告，請在下方輸入廣告代碼。(最大寬度為 960px)"
+
+#: admin/admin.php:417
+msgid "Layout"
+msgstr "布局"
+
+#: admin/admin.php:418
+msgid "Select the layout."
+msgstr "選擇布局："
+
+#: admin/admin.php:418
+msgid "Edit widgets"
+msgstr "編輯模組"
+
+#: admin/admin.php:421
+msgid "Home: "
+msgstr "首頁："
+
+#: admin/admin.php:423
+#: admin/admin.php:435
+msgid "2 columns, left sidebar"
+msgstr "2 欄，左側邊欄"
+
+#: admin/admin.php:424
+#: admin/admin.php:436
+msgid "2 columns, right sidebar"
+msgstr "2 欄，右側邊欄"
+
+#: admin/admin.php:425
+#: admin/admin.php:437
+msgid "3 columns, sidebar on both sides"
+msgstr "3 欄，雙側邊欄"
+
+#: admin/admin.php:433
+msgid "Post: "
+msgstr "文章："
+
+#: admin/admin.php:443
+msgid "Select the width of sidebar in posts. (Only in 2 columns)"
+msgstr "選擇文章側邊欄的寬度。(僅限於 2 欄布局)"
+
+#: admin/admin.php:447
+msgid "Slim (Default, 180px)"
+msgstr "窄版 (預設，180px)"
+
+#: admin/admin.php:448
+msgid "Normal (260px)"
+msgstr "一般 (260px)"
+
+#: admin/admin.php:454
+msgid "Select the post previews layout that apply to home page & archive pages."
+msgstr "選擇文章預覽布局，應用於首頁與彙整頁面。"
+
+#: admin/admin.php:458
+msgid "Full"
+msgstr "完整"
+
+#: admin/admin.php:459
+msgid "Excerpt & Thumbnails"
+msgstr "概要與縮圖"
+
+#: admin/admin.php:460
+msgid "Only Title"
+msgstr "僅標題"
+
+#: admin/admin.php:464
+msgid "Font"
+msgstr "字體"
+
+#: admin/admin.php:468
+msgid "Choose the font you like."
+msgstr "選擇您喜好的字體。"
+
+#: admin/admin.php:472
+msgid "Meiryo (Default, Japanese)"
+msgstr "Meiryo (預設值，日文)"
+
+#: admin/admin.php:473
+msgid "Segoe UI (Windows Vista/7)"
+msgstr "Segoe UI (Windows Vista/7)"
+
+#: admin/admin.php:474
+msgid "Helvetica/Arial (sans serif)"
+msgstr "Helvetica/Arial (無襯線 sans serif)"
+
+#: admin/admin.php:475
+msgid "Georgia (serif)"
+msgstr "Georgia (有襯線 serif)"
+
+#: admin/admin.php:476
+msgid "Lucida Grande/Sans (Mac/Windows)"
+msgstr "Lucida Grande/Sans (Mac/Windows)"
+
+#: admin/admin.php:482
+msgid "Navigation"
+msgstr "導覽"
+
+#: admin/admin.php:483
+msgid "Select the way of navigation."
+msgstr "選擇頁面的導覽方式。"
+
+#: admin/admin.php:487
+msgid "Built in theme"
+msgstr "主題內建"
+
+#: admin/admin.php:488
+msgid "Plugin (WP-PageNavi)"
+msgstr "外掛 (WP-Pagenavi)"
+
+#: admin/admin.php:489
+msgid "WordPress Default"
+msgstr "WordPress 預設"
+
+#: admin/admin.php:495
+#: admin/admin.php:616
+msgid "You can also enable AJAX, users can turn to other pages without refreshing."
+msgstr "您還可啟用 AJAX 功能，使用者能無需重新整理就跳轉至其他頁面。"
+
+#: admin/admin.php:495
+#: admin/admin.php:591
+msgid "&lowast; Not compatible with Internet Explorer (IE) 8 and below."
+msgstr "&lowast; 無法相容於 Internet Explorer (IE) 8 及以下版本。"
+
+#: admin/admin.php:505
+msgid "Enable Auto-Load"
+msgstr "啟用自動載入"
+
+#: admin/admin.php:511
+msgid "Sharing Button"
+msgstr "分享按鈕"
+
+#: admin/admin.php:512
+msgid "Display sharing buttons in your articles."
+msgstr "在文章內顯示分享按鈕。"
+
+#: admin/admin.php:522
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/admin.php:530
+msgid "Google +1"
+msgstr "Google +1"
+
+#: admin/admin.php:538
+msgid "Plurk"
+msgstr "Plurk"
+
+#: admin/admin.php:546
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/admin.php:554
+msgid "Other sites (AddToAny)"
+msgstr "其他網站 (AddToAny)"
+
+#: admin/admin.php:559
+msgid "Custom code:"
+msgstr "自定代碼："
+
+#: admin/admin.php:569
+msgid "Select the way displaying trackback/pingback. \"Separate from comments\" doesn't take effect when you choose 3 columns layout."
+msgstr "選擇引用 (trackback) / 通告 (pingback) 的顯示方式。當您選擇 3 欄式布局時，\"與留言分離\" 將不會生效。"
+
+#: admin/admin.php:574
+msgid "Separate from comments"
+msgstr "與留言分離"
+
+#: admin/admin.php:575
+msgid "Disable"
+msgstr "停用"
+
+#: admin/admin.php:581
+msgid "Reply"
+msgstr "回覆"
+
+#: admin/admin.php:582
+msgid "Add \"@username\" before every reply."
+msgstr "在每則回覆前加上 \"@使用者名稱\"。"
+
+#: admin/admin.php:590
+msgid "AJAX"
+msgstr "AJAX"
+
+#: admin/admin.php:591
+msgid "Let users submit/re-edit their comments without refreshing pages. (Original by Willin Kan.)"
+msgstr "讓使用者無需重新整理頁面，即可送出 / 重新整理留言。(原作為 Willin Kan)"
+
+#: admin/admin.php:602
+msgid "Enable Re-edit Feature"
+msgstr "啟用重新編輯功能"
+
+#: admin/admin.php:610
+msgid "Restriction of submission: "
+msgstr "發表限制："
+
+#: admin/admin.php:611
+msgid " sec (0: Disable)"
+msgstr " 秒 (0：停用)"
+
+#: admin/admin.php:625
+msgid "Notify the author of parent comment via email when replied. (Original by Willin Kan.)"
+msgstr "當有人回覆時，寄送電子郵件通知原留言者。(原作為 Willin Kan)"
+
+#: admin/admin.php:638
+msgid "From: "
+msgstr "寄件人："
+
+#: admin/admin.php:646
+msgid "Author Information"
+msgstr "作者資訊"
+
+#: admin/admin.php:647
+msgid "Display the information of author."
+msgstr "顯示作者資訊。"
+
+#: admin/admin.php:657
+msgid "Name"
+msgstr "姓名"
+
+#: admin/admin.php:665
+msgid "Avatar"
+msgstr "大頭貼"
+
+#: admin/admin.php:673
+msgid "Description"
+msgstr "個人簡歷"
+
+#: admin/admin.php:678
+msgid "To use social network, please fill in the values below."
+msgstr "若要使用社交網路，請填入下列數值。"
+
+#: admin/admin.php:681
+msgid "Facebook Link: "
+msgstr "Facebook 連結："
+
+#: admin/admin.php:694
+msgid "Plurk ID: "
+msgstr "Plurk ID："
+
+#: admin/admin.php:707
+msgid "Twitter ID: "
+msgstr "Twitter ID："
+
+#: admin/admin.php:718
+msgid "RSS link is optional, default is: "
+msgstr "RSS 連結為選填項目，預設為："
+
+#: admin/admin.php:721
+msgid "RSS: "
+msgstr "RSS："
+
+#: admin/admin.php:733
+msgid "Footer Menu"
+msgstr "頁尾選單"
+
+#: admin/admin.php:734
+msgid "Display the menu in footer."
+msgstr "顯示頁尾選單。"
+
+#: admin/admin.php:742
+msgid "Footer Information"
+msgstr "頁尾資訊"
+
+#: admin/admin.php:743
+msgid "Display the custom information in footer. Default is \"Copyright &copy; 2011 Your Site\"."
+msgstr "在頁尾顯示自訂的資訊。預設為 \"版權所有 &copy; 2011 您的網站名稱\"。"
+
+#: admin/admin.php:750
+msgid "Ads (Footer)"
+msgstr "廣告 (頁尾)"
+
+#: admin/admin.php:751
+msgid "To display your ads in footer, please enter the ads code below. (Max width is 960px)"
+msgstr "若要在頁尾顯示廣告，請在下方輸入廣告代碼。(最大寬度為 960px)"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Set logo."
+#~ msgstr "設定 Logo。"
+
+#~ msgid "(Recommended height is 40~50 px)"
+#~ msgstr "(建議高度為 40~50 px)"
+
+#~ msgid "Google Custom Search"
+#~ msgstr "Google 自訂搜尋"
+
+#~ msgid "AJAX Comment"
+#~ msgstr "AJAX 留言"
+
+#~ msgid "Share to Facebook"
+#~ msgstr "分享至 Facebook"
+
+#~ msgid "Share to Twitter"
+#~ msgstr "分享至 Twitter"
+
+#~ msgid "Display the main (left) menu"
+#~ msgstr "在標題"
+
+#~ msgid "the title."
+#~ msgstr "顯示主要 (左側) 選單。"
+
+#~ msgid "Select which menus to display."
+#~ msgstr "選擇所要顯示的選單。"
+
+#~ msgid "ID:"
+#~ msgstr "ID:"
+
+#~ msgid "Display the notice in home page. (HTML is avalible)"
+#~ msgstr "在首頁顯示公告。(可使用 HTML 代碼)"
+
+#~ msgid "Posts: "
+#~ msgstr "文章："
+
+#~ msgid "Color:"
+#~ msgstr "顏色："
+
+#~ msgid "Custom code: (HTML is avalible)"
+#~ msgstr "自定代碼：(可使用 HTML 代碼。)"
+
+#~ msgid "You can use following tags:"
+#~ msgstr "您可使用下列標籤："
+
+#~ msgid "Content:"
+#~ msgstr "內容："
+
+#~ msgid "Edit my profile"
+#~ msgstr "編輯我的個人資料"
+
+#~ msgid "To use social network, please fill in the value below."
+#~ msgstr "若要使用社交網路，請填入下列數值。"
+
+#~ msgid "Facebook Link:"
+#~ msgstr "Facebook 連結："
+
+#~ msgid "Plurk ID:"
+#~ msgstr "Plurk ID："
+
+#~ msgid "Twitter ID:"
+#~ msgstr "Twitter ID："
+
+#~ msgid "RSS:"
+#~ msgstr "RSS:"
+
+#~ msgid ""
+#~ "Display the custom information in footer. Default is \"Copyright &copy; "
+#~ "2011 Your Site\". (HTML is avalible)"
+#~ msgstr ""
+#~ "在頁尾顯示自訂的資訊。預設為 \"版權所有 &copy; 2011 您的網站名稱\"。 (可使"
+#~ "用 HTML 代碼)"
+
+#~ msgid "Edit my menus"
+#~ msgstr "編輯選單"
+
+#~ msgid "Reset"
+#~ msgstr "重設"
+
+#~ msgid "Cautions:"
+#~ msgstr "注意："
+
+#~ msgid "It will reset all changes to defaults."
+#~ msgstr "所有變更都將重設至預設值。"
+
+#~ msgid ""
+#~ "Are you sure? It will reset all changes to defaults and it can't be "
+#~ "undone!"
+#~ msgstr "您確定嗎？所有變更都將重設至預設值，無法復原。"
+
+#~ msgid "RSS 2.0 - Entire RSS"
+#~ msgstr "RSS 2.0 - 全文訂閱"
+
+#~ msgid "RSS 2.0 - Comments RSS"
+#~ msgstr "RSS 2.0 - 留言訂閱"
+
+#~ msgid "Sorry, comments are closed for this item."
+#~ msgstr "抱歉，留言功能已關閉。"
+
+#~ msgid "Hello, you have a new reply in [[blogname]]"
+#~ msgstr "您好，您在 [[blogname]] 的留言有了回應"
+
+#~ msgid ""
+#~ "<div style=\"background: #fff; -moz-border-radius: 10px; -webkit-border-"
+#~ "radius: 10px; border-radius: 10px; border: 1px solid #d6dee5; padding: "
+#~ "10px;\">\n"
+#~ "\t<p>Hello, <strong>[commauthor]</strong></p>\n"
+#~ "\t<p>Yours comment in《<strong>[postname]</strong>》:</p>\n"
+#~ "\t<p style=\"border-left:2px solid #258fb8; margin: 5px 20px; padding: 0 "
+#~ "10px;\">[commcontent]</p>\n"
+#~ "\t<p>It has been replied by <strong>[replyauthor]</strong>:</p>\n"
+#~ "\t<p style=\"border-left:2px solid #258fb8; margin: 5px 20px; padding: 0 "
+#~ "10px;\">[replycontent]</p>\n"
+#~ "\t<p>You can <a href=\"[commurl]\">Click Here</a> to read the complete "
+#~ "reply.</p>\n"
+#~ "\t<p style=\"color: #666;\">(Be reminded that, this e-mail is sent "
+#~ "automatically, please do not reply. Thank you.)</p>\n"
+#~ "\t</div>"
+#~ msgstr ""
+#~ "<div style=\"background: #fff; -moz-border-radius: 10px; -webkit-border-"
+#~ "radius: 10px; border-radius: 10px; border: 1px solid #d6dee5; padding: "
+#~ "10px;\">\n"
+#~ "  <p><strong>[commauthor]</strong> 您好：</p>\n"
+#~ "  <p>您曾在《<strong>[postname]</strong>》的留言如下：</p>\n"
+#~ "  <p style=\"border-left:2px solid #258fb8; margin: 5px 20px; padding: 0 "
+#~ "10px;\">[commcontent]</p>\n"
+#~ "  <p><strong>[replyauthor]</strong> 給您的回應：</p>\n"
+#~ "  <p style=\"border-left:2px solid #258fb8; margin: 5px 20px; padding: 0 "
+#~ "10px;\">[replycontent]</p>\n"
+#~ "  <p>您可以 <a href=\"[commurl]\">點擊這裡</a> 閱讀完整回應內容。</p>\n"
+#~ "  <p style=\"color: #666;\">(請注意，本篇郵件由系統自動發出，請勿回覆，謝"
+#~ "謝。)</p>\n"
+#~ "  </div>"
+
+#~ msgid "Home Page: "
+#~ msgstr "首頁："
+
+#~ msgid "Left"
+#~ msgstr "左側"
+
+#~ msgid "Right"
+#~ msgstr "右側"
+
+#~ msgid "Only show the main menu (Left)"
+#~ msgstr "只顯示主選單 (左側)"
+
+#~ msgid "Only show the slave menu (Right)"
+#~ msgstr "只顯示附屬選單 (右側)"
+
+#~ msgid "Show both of menus"
+#~ msgstr "兩個選單都顯示"
+
+#~ msgid "(Google Custom Search)"
+#~ msgstr "(Google 自訂搜尋)"
+
+#~ msgid "<h2>%s</h2><span>Category</span>"
+#~ msgstr "<h2>%s</h2><span>分類</span>"
+
+#~ msgid "<h2>%s</h2><span>Tag</span>"
+#~ msgstr "<h2>%s</h2><span>標籤</span>"
+
+#~ msgid "<h2>%s</h2><span>Archives</span>"
+#~ msgstr "<h2>%s</h2><span>彙整</span>"
+
+#~ msgid "Y/m/d"
+#~ msgstr "Y 年 m 月 d 日"
+
+#~ msgid "Y/m"
+#~ msgstr "Y 年 m 月"
+
+#~ msgid "Back to the Top ↑"
+#~ msgstr "回到頁面最上方 ↑"
+
+#~ msgid "Theme options have been saved."
+#~ msgstr "主題選項已儲存。"
+
+#~ msgid "General"
+#~ msgstr "一般"
+
+#~ msgid "Layout of index"
+#~ msgstr "首頁布局"
+
+#~ msgid "Determine which layout to display in index."
+#~ msgstr "選擇首頁所要顯示的布局。"
+
+#~ msgid "Layout of post"
+#~ msgstr "文章布局"
+
+#~ msgid "Determine which layout to display in your post."
+#~ msgstr "選擇單篇文章所要顯示的布局。"
+
+#~ msgid "Others"
+#~ msgstr "其他"
+
+#~ msgid "Header Menu (New Style)"
+#~ msgstr "頁首選單 (新版樣式)"
+
+#~ msgid ""
+#~ "Show the menu under the blog title/logo. If you have too many menu items, "
+#~ "enable this."
+#~ msgstr ""
+#~ "將選單顯示於網誌標題 / Logo 下方。若您的選單項目過多，建議您啟用此模式。"
+
+#~ msgid ""
+#~ "If you enable the new style of header menu above, tagline will be display "
+#~ "on the right side of the title; otherwise it will be displayed under the "
+#~ "title."
+#~ msgstr ""
+#~ "若您啟用新版樣式的頁首選單（上述選項），副標題將顯示於標題的右側；反之，將"
+#~ "顯示於標題的下方。"
+
+#~ msgid ""
+#~ "Put your own logo in the folder \"<code>/images</code>\", and fill in the "
+#~ "form below. (Recommend height is 40~50 pixels)"
+#~ msgstr ""
+#~ "將您的 Logo 存放於 \"<code>/images</code>\" 資料夾，並在下方表格填入檔案名"
+#~ "稱。(圖片建議高度為 40~50 像素)"
+
+#~ msgid "File Name:"
+#~ msgstr "檔案名稱："
+
+#~ msgid "Page Navi"
+#~ msgstr "頁面導覽"
+
+#~ msgid ""
+#~ "If you select \"Plugin\", you should install the plugin \"<a target="
+#~ "\"_blank\" href=\"http://wordpress.org/extend/plugins/wp-pagenavi/\">WP-"
+#~ "PageNavi</a>\" first. If you want to know how to configure it, please "
+#~ "visit \"Manual\" tab."
+#~ msgstr ""
+#~ "若您選擇 \"外掛\"，您應該先安裝 \"<a target=\"_blank\" href=\"http://"
+#~ "wordpress.org/extend/plugins/wp-pagenavi/\">WP-PageNavi</a>\"。您可以參閱 "
+#~ "\"使用說明\" 分頁獲得更多說明。"
+
+#~ msgid ""
+#~ "Show the information of author, you can edit it in \"Users\" > \"Your "
+#~ "Profile\"."
+#~ msgstr "顯示作者的資訊，您可以在 \"帳號\" > \"個人資訊\" 中編輯您的資料。"
+
+#~ msgid "WP-PageNavi"
+#~ msgstr "WP-PageNavi"
+
+#~ msgid "※Be sure that you have installed WP-PageNavi."
+#~ msgstr "※請先確認您已安裝 WP-PageNavi"
+
+#~ msgid "1. Go to \"Setting\" → \"PageNavi\""
+#~ msgstr "1. 前往 \"設定\" → \"PageNavi\""
+
+#~ msgid "2. Enter the values below:"
+#~ msgstr "2. 輸入以下數值："
+
+#~ msgid "Text For Number Of Pages → Leave it blank"
+#~ msgstr "Text For Number Of Pages → 留空"
+
+#~ msgid "Text For Current Page → %PAGE_NUMBER%"
+#~ msgstr "Text For Current Page → %PAGE_NUMBER%"
+
+#~ msgid "Text For Page → %PAGE_NUMBER%"
+#~ msgstr "Text For Page → %PAGE_NUMBER%"
+
+#~ msgid "Text For First Page → Leave it blank"
+#~ msgstr "Text For First Page → 留空"
+
+#~ msgid "Text For Last Page → Leave it blank"
+#~ msgstr "Text For Last Page → 留空"
+
+#~ msgid "Text For Previous Page → « Prev"
+#~ msgstr "Text For Previous Page → « 前頁"
+
+#~ msgid "Text For Next Page → Next »"
+#~ msgstr "Text For Next Page → 次頁 »"
+
+#~ msgid "Text For Previous ...→ Leave it blank"
+#~ msgstr "Text For Previous ...→ 留空"
+
+#~ msgid "Text For Next ...→ Leave it blank"
+#~ msgstr "Text For Next ...→ 留空"
+
+#~ msgid "Use pagenavi-css.css → No"
+#~ msgstr "Use pagenavi-css.css → 否"
+
+#~ msgid ""
+#~ "※Others values choose as you like, but the value of \"Use pagenavi-css.css"
+#~ "\" must be No."
+#~ msgstr "※其他數值隨你喜歡，但 \"Use pagenavi-css.css\" 的值一定要為否。"
+
+#~ msgid "Sidebar Two (Index)"
+#~ msgstr "側邊欄 2 (首頁)"
+
+#~ msgid "Sidebar One (Single)"
+#~ msgstr "側邊欄 1 (單篇文章)"
+
+#~ msgid "Sidebar Two (Single)"
+#~ msgstr "側邊欄 2 (單篇文章)"
+
+#~ msgid "Header Menu (Left)"
+#~ msgstr "頁首選單 (左側)"
+
+#~ msgid "Header Menu (Right)"
+#~ msgstr "頁首選單 (右側)"
+
+#~ msgid "Before you refresh your web page, you can"
+#~ msgstr "在頁面重新整理之前，您可以"
+
+#~ msgid "Y/m/d G:i"
+#~ msgstr "Y 年 m 月 d 日 G:i"
+
+#~ msgid "Back to Home"
+#~ msgstr "回到首頁"
+
+#~ msgid "There's a reference for you:"
+#~ msgstr "以下可供您參考："
+
+#, fuzzy
+#~ msgid ""
+#~ "&lt;div style=\"background: #fff; -moz-border-radius: 10px; -webkit-"
+#~ "border-radius: 10px; border-radius: 10px; border: 1px solid #d6dee5; "
+#~ "padding: 10px;\"&gt;\n"
+#~ "\t\t&lt;p&gt;Hello, &lt;strong&gt;[commauthor]&lt;/strong&gt;&lt;/p&gt;\n"
+#~ "\t\t&lt;p&gt;Yours comment in《&lt;strong&gt;[postname]&lt;/strong&gt;》:"
+#~ "&lt;/p&gt;\n"
+#~ "\t\t&lt;p style=\"border-left:2px solid #258fb8; margin: 5px 20px; "
+#~ "padding: 0 10px;\"&gt;[commcontent]&lt;/p&gt;\n"
+#~ "\t\t&lt;p&gt;It has been replied by &lt;strong&gt;[replyauthor]&lt;/"
+#~ "strong&gt;:&lt;/p&gt;\n"
+#~ "\t\t&lt;p style=\"border-left:2px solid #258fb8; margin: 5px 20px; "
+#~ "padding: 0 10px;\"&gt;[replycontent]&lt;/p&gt;\n"
+#~ "\t\t&lt;p&gt;You can &lt;a href=\"[commurl]\"&gt;Click Here&lt;/a&gt; to "
+#~ "read the complete reply.&lt;/p&gt;\n"
+#~ "\t\t&lt;p style=\"color: #666;\"&gt;(Be reminded that, this e-mail is "
+#~ "sent automatically, please do not reply. Thank you.)&lt;/p&gt;\n"
+#~ "\t\t&lt;/div&gt;"
+#~ msgstr ""
+#~ "<div style=\"background: #fff; -moz-border-radius: 10px; -webkit-border-"
+#~ "radius: 10px; border-radius: 10px; border: 1px solid #d6dee5; padding: "
+#~ "10px;\">\n"
+#~ "  <p><strong>[commauthor]</strong> 您好：</p>\n"
+#~ "  <p>您曾在《<strong>[postname]</strong>》的留言如下：</p>\n"
+#~ "  <p style=\"border-left:2px solid #258fb8; margin: 5px 20px; padding: 0 "
+#~ "10px;\">[commcontent]</p>\n"
+#~ "  <p><strong>[replyauthor]</strong> 給您的回應：</p>\n"
+#~ "  <p style=\"border-left:2px solid #258fb8; margin: 5px 20px; padding: 0 "
+#~ "10px;\">[replycontent]</p>\n"
+#~ "  <p>您可以 <a href=\"[commurl]\">點擊這裡</a> 閱讀完整回應內容。</p>\n"
+#~ "  <p style=\"color: #666;\">(請注意，本篇郵件由系統自動發出，請勿回覆，謝"
+#~ "謝。)</p>\n"
+#~ "  </div>"
+
+#~ msgid "You can use HTML to configure your own notification."
+#~ msgstr "您可使用 HTML 設定您自己的通知內容。"
+
+#~ msgid ""
+#~ "When users reply a comment, system will send original commenter an "
+#~ "notifications via email. (Orginated by <a href=\\\"http://kan.willin.org/"
+#~ "\\\">Willin Kan</a>.)"
+#~ msgstr ""
+#~ "當使用者回覆留言，系統將透過電子郵件寄送通知給原留言者。(原作為 <a href="
+#~ "\"http://kan.willin.org/\">Willin Kan</a>)"
+
+#~ msgid "Also send notifications to admin."
+#~ msgstr "也寄送通知給管理員。"
+
+#~ msgid "(Experimental)"
+#~ msgstr "(實驗中)"
+
+#~ msgid "(Edit)"
+#~ msgstr "(編輯)"
+
+#~ msgid "Comment AJAX"
+#~ msgstr "留言 AJAX"
+
+#~ msgid "Login Form"
+#~ msgstr "登入表單"
+
+#~ msgid "Lost Password"
+#~ msgstr "忘記密碼"
+
+#~ msgid "<a href=\"%1$s\" title=\"Edit your profile\">%2$s</a>"
+#~ msgstr "<a href=\"%1$s\" title=\"編輯個人資料\">%2$s</a>"
+
+#~ msgid "Custom your own login page. Leave blank to use default value."
+#~ msgstr "自定個人專屬的登入頁面。留空則使用預設值。"
+
+#~ msgid "404 Page"
+#~ msgstr "404 頁面"
+
+#~ msgid ""
+#~ "Set your own custom error picture. Put your picture in the folder \"/wp-"
+#~ "content/themes/pixiv-custom/images\", and enter the file name below."
+#~ msgstr ""
+#~ "設定您自己的錯誤圖片。請將圖片放置於資料夾 \"/wp-content/themes/pixiv-"
+#~ "custom/images\"，並在下方輸入檔案名稱。"
+
+#~ msgid "Show the menu under the blog title/logo."
+#~ msgstr "在網誌標題 / Logo 下方顯示選單。"

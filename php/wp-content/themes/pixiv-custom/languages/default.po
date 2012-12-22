@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixiv Custom 2.1.3\n"
+"Report-Msgid-Bugs-To: \n"
+<<<<<<< Updated upstream
+"POT-Creation-Date: 2011-07-03 16:59+0800\n"
+"PO-Revision-Date: 2011-07-03 17:00+0800\n"
+=======
+"POT-Creation-Date: 2011-07-03 01:53+0800\n"
+"PO-Revision-Date: 2011-07-03 01:55+0800\n"
+>>>>>>> Stashed changes
+"Last-Translator: Tommy Chen <tommy351@gmail.com>\n"
+"Language-Team: SkyArrow <tommy351@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _c;_e;__;__ngettext:1,2;__ngettext_noop:1,2;esc_attr_e\n"
+"X-Poedit-Basepath: /Users/SkyArrow/Sites/wp/wp-content/themes/pixiv-custom\n"
+"Plural-Forms: nplurals=2; plural=n==1?0:1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: TAIWAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:3
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:5
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: archive.php:6
+msgid "Category"
+msgstr ""
+
+#: archive.php:10
+msgid "Tag"
+msgstr ""
+
+#: archive.php:14
+#: loop-index.php:11
+#: single.php:16
+msgid "M jS, Y"
+msgstr ""
+
+#: archive.php:15
+#: archive.php:19
+#: archive.php:23
+#: sidebar-default.php:2
+msgid "Archives"
+msgstr ""
+
+#: archive.php:18
+msgid "M, Y"
+msgstr ""
+
+#: archive.php:22
+msgid "Y"
+msgstr ""
+
+#: archive.php:26
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:29
+msgid " search results"
+msgstr ""
+
+#: archive.php:33
+msgid "<h2>Blog Archives</h2>"
+msgstr ""
+
+#: comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:9
+msgid "Comments"
+msgstr ""
+
+#: comments.php:23
+msgid "&lt; Prev"
+msgstr ""
+
+#: comments.php:23
+msgid "Next &gt;"
+msgstr ""
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:41
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:48
+msgid "Trackbacks"
+msgstr ""
+
+#: comments.php:50
+msgid "Trackback URL"
+msgstr ""
+
+#: footer.php:6
+msgid "Page Top &uarr;"
+msgstr ""
+
+#: footer.php:9
+msgid "Copyright"
+msgstr ""
+
+#: functions.php:7
+msgid "Sidebar 1 (Home)"
+msgstr ""
+
+#: functions.php:15
+msgid "Sidebar 2 (Home)"
+msgstr ""
+
+#: functions.php:17
+#: functions.php:34
+msgid "Only display when you select 3 columns layout."
+msgstr ""
+
+#: functions.php:24
+msgid "Sidebar 1 (Post)"
+msgstr ""
+
+#: functions.php:32
+msgid "Sidebar 2 (Post)"
+msgstr ""
+
+#: functions.php:44
+msgid "Menu (Main)"
+msgstr ""
+
+#: functions.php:45
+msgid "Menu (Subscription)"
+msgstr ""
+
+#: functions.php:46
+msgid "Menu (Footer)"
+msgstr ""
+
+#: functions.php:81
+msgid "Platform"
+msgstr ""
+
+#: functions.php:86
+msgid "Xmas"
+msgstr ""
+
+#: functions.php:91
+msgid "Beach"
+msgstr ""
+
+#: functions.php:96
+msgid "Starry"
+msgstr ""
+
+#: functions.php:101
+msgid "Sunset"
+msgstr ""
+
+#: functions.php:148
+#: functions.php:177
+#: loop-index.php:23
+msgid "Loading..."
+msgstr ""
+
+#: functions.php:149
+#: functions.php:178
+msgid "Error! Sorry, you have to manually refresh the page."
+msgstr ""
+
+#: functions.php:163
+msgid "Submitting, please wait..."
+msgstr ""
+
+#: functions.php:164
+msgid "Submit Complete"
+msgstr ""
+
+#: functions.php:165
+msgid "You can re-edit your comment before refreshing page."
+msgstr ""
+
+#: functions.php:166
+msgid "(Re-edit)"
+msgstr ""
+
+#: functions.php:167
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:219
+msgid "&laquo; Prev"
+msgstr ""
+
+#: functions.php:220
+msgid "Next &raquo;"
+msgstr ""
+
+#: functions.php:265
+msgid "Notify me of follow-up comments via email"
+msgstr ""
+
+#: functions.php:287
+msgid "(Moderating)"
+msgstr ""
+
+#: functions.php:289
+msgid "(Admin)"
+msgstr ""
+
+#: functions.php:291
+#: functions.php:312
+msgid "M jS, Y G:i"
+msgstr ""
+
+#: functions.php:295
+msgid "Quote"
+msgstr ""
+
+#: functions.php:296
+#: functions.php:313
+#: single.php:16
+msgid "Edit"
+msgstr ""
+
+#: header.php:46
+#: header.php:61
+msgid "Enter the keyword"
+msgstr ""
+
+#: header.php:57
+#: header.php:70
+msgid "Search"
+msgstr ""
+
+#: loop-index.php:6
+#: page.php:6
+#: single.php:53
+msgid "Read More &raquo;"
+msgstr ""
+
+#: loop-index.php:35
+msgid "&laquo; Newer"
+msgstr ""
+
+#: loop-index.php:36
+msgid "Older &raquo;"
+msgstr ""
+
+#: search-failed.php:2
+msgid "No matching results"
+msgstr ""
+
+#: search-failed.php:4
+msgid "You seem to have found a mis-linked page or search query with no matching results. Please trying your search again. If you feel that you should be staring at something a little more concrete, feel free to email the author of this site or browse the archives."
+msgstr ""
+
+#: sidebar-author.php:3
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: sidebar-author.php:7
+msgid "Join my Facebook"
+msgstr ""
+
+#: sidebar-author.php:10
+msgid "Follow my Plurk"
+msgstr ""
+
+#: sidebar-author.php:13
+msgid "Follow my Twitter"
+msgstr ""
+
+#: sidebar-author.php:16
+msgid "Subscribe RSS"
+msgstr ""
+
+#: sidebar-default.php:6
+msgid "Categories"
+msgstr ""
+
+#: sidebar-default.php:10
+msgid "Tag Cloud"
+msgstr ""
+
+#: sidebar-default.php:14
+msgid "Meta"
+msgstr ""
+
+#: single.php:5
+#: single.php:12
+msgid "Home"
+msgstr ""
+
+#: single.php:17
+msgid "Comments: 0"
+msgstr ""
+
+#: single.php:17
+msgid "Comments: 1"
+msgstr ""
+
+#: single.php:17
+msgid "Comments: %"
+msgstr ""
+
+#: single.php:22
+msgid "Tags"
+msgstr ""
+
+#: single.php:27
+msgid "Share to Plurk"
+msgstr ""
+
+#: single.php:36
+msgid "More"
+msgstr ""
+
+#: single.php:47
+msgid "Share this"
+msgstr ""
+
+#: admin/admin.php:72
+#: admin/admin.php:138
+msgid "Header"
+msgstr ""
+
+#: admin/admin.php:73
+#: admin/admin.php:139
+msgid "Reading"
+msgstr ""
+
+#: admin/admin.php:75
+#: admin/admin.php:141
+msgid "Sidebar"
+msgstr ""
+
+#: admin/admin.php:76
+#: admin/admin.php:142
+msgid "Footer"
+msgstr ""
+
+#: admin/admin.php:77
+#: admin/admin.php:143
+msgid "Manual"
+msgstr ""
+
+#: admin/admin.php:95
+#: admin/admin.php:137
+msgid "Theme Options"
+msgstr ""
+
+#: admin/admin.php:149
+msgid "&radic; Saved"
+msgstr ""
+
+#: admin/admin.php:156
+msgid "Save Changes"
+msgstr ""
+
+#: admin/admin.php:157
+msgid "All current settings will be reset to defaults. Are you sure?"
+msgstr ""
+
+#: admin/admin.php:157
+msgid "Reset to Deafults"
+msgstr ""
+
+#: admin/admin.php:169
+#: admin/admin.php:624
+msgid "Comment Reply Notification"
+msgstr ""
+
+#: admin/admin.php:171
+msgid "&lowast; Be sure that your server support mail() function."
+msgstr ""
+
+#: admin/admin.php:172
+msgid "You can edit the content of notification by the tags below:"
+msgstr ""
+
+#: admin/admin.php:174
+msgid "The name of your blog."
+msgstr ""
+
+#: admin/admin.php:175
+msgid "The name of the post."
+msgstr ""
+
+#: admin/admin.php:176
+msgid "The author of parent comment."
+msgstr ""
+
+#: admin/admin.php:177
+msgid "The author of reply."
+msgstr ""
+
+#: admin/admin.php:178
+msgid "The content of parent comment."
+msgstr ""
+
+#: admin/admin.php:179
+msgid "The content of reply."
+msgstr ""
+
+#: admin/admin.php:180
+msgid "The link of the comment."
+msgstr ""
+
+#: admin/admin.php:182
+msgid "Use HTML to configure your own notification. You can configure other advanced settings in \"function.php\", like the rules of sending, or whether to send notification to admin."
+msgstr ""
+
+#: admin/admin.php:248
+msgid "Choose the link color you like. Default is <code>#258fb8</code>."
+msgstr ""
+
+#: admin/admin.php:249
+msgid "Color: #"
+msgstr ""
+
+#: admin/admin.php:251
+msgid "Pick a color"
+msgstr ""
+
+#: admin/admin.php:256
+msgid "Custom the content of notification."
+msgstr ""
+
+#: admin/admin.php:258
+msgid "You can use following tags: "
+msgstr ""
+
+#: admin/admin.php:259
+msgid "To learn more, please visit \"Manual\" tab."
+msgstr ""
+
+#: admin/admin.php:260
+msgid "Subject: "
+msgstr ""
+
+#: admin/admin.php:266
+msgid "Content: "
+msgstr ""
+
+#: admin/admin.php:266
+#: admin/admin.php:385
+#: admin/admin.php:559
+#: admin/admin.php:743
+msgid "(HTML is avalible.)"
+msgstr ""
+
+#: admin/admin.php:267
+msgid "Preview:"
+msgstr ""
+
+#: admin/admin.php:270
+msgid "Subject:"
+msgstr ""
+
+#: admin/admin.php:272
+msgid "(No Title)"
+msgstr ""
+
+#: admin/admin.php:275
+msgid "From:"
+msgstr ""
+
+#: admin/admin.php:277
+msgid "(No Sender)"
+msgstr ""
+
+#: admin/admin.php:309
+msgid "Menus"
+msgstr ""
+
+#: admin/admin.php:312
+msgid "Display the main (left) menu "
+msgstr ""
+
+#: admin/admin.php:313
+msgid " the title."
+msgstr ""
+
+#: admin/admin.php:315
+msgid "beside"
+msgstr ""
+
+#: admin/admin.php:316
+msgid "under"
+msgstr ""
+
+#: admin/admin.php:322
+msgid "Select which menu to display."
+msgstr ""
+
+#: admin/admin.php:322
+#: admin/admin.php:647
+#: admin/admin.php:734
+msgid "Edit menus"
+msgstr ""
+
+#: admin/admin.php:326
+msgid "Main (Left)"
+msgstr ""
+
+#: admin/admin.php:327
+msgid "Subscription (Right)"
+msgstr ""
+
+#: admin/admin.php:328
+msgid "Both"
+msgstr ""
+
+#: admin/admin.php:334
+msgid "Tagline"
+msgstr ""
+
+#: admin/admin.php:335
+msgid "Display the tagline."
+msgstr ""
+
+#: admin/admin.php:338
+#: admin/admin.php:347
+#: admin/admin.php:365
+#: admin/admin.php:388
+#: admin/admin.php:404
+#: admin/admin.php:498
+#: admin/admin.php:515
+#: admin/admin.php:573
+#: admin/admin.php:585
+#: admin/admin.php:594
+#: admin/admin.php:619
+#: admin/admin.php:628
+#: admin/admin.php:650
+#: admin/admin.php:737
+#: admin/admin.php:754
+msgid "Enable"
+msgstr ""
+
+#: admin/admin.php:343
+msgid "Banner"
+msgstr ""
+
+#: admin/admin.php:344
+msgid "Display the banner."
+msgstr ""
+
+#: admin/admin.php:353
+msgid "Put the photos (980x200 px) in the folder <code>/headers</code>. When page is refreshed, the photos in the folder will be randomly displayed."
+msgstr ""
+
+#: admin/admin.php:355
+msgid "Enable Random Banner"
+msgstr ""
+
+#: admin/admin.php:362
+msgid "Display search suggestions."
+msgstr ""
+
+#: admin/admin.php:362
+msgid "Edit tags"
+msgstr ""
+
+#: admin/admin.php:370
+msgid "Use Google Custom Search instead of default."
+msgstr ""
+
+#: admin/admin.php:373
+msgid "ID: "
+msgstr ""
+
+#: admin/admin.php:384
+msgid "Notice"
+msgstr ""
+
+#: admin/admin.php:385
+msgid "Display the notice in home page."
+msgstr ""
+
+#: admin/admin.php:400
+msgid "Ads (Header)"
+msgstr ""
+
+#: admin/admin.php:401
+msgid "To Display your ads in header, please enter the ads code below. (Max width is 960px)"
+msgstr ""
+
+#: admin/admin.php:417
+msgid "Layout"
+msgstr ""
+
+#: admin/admin.php:418
+msgid "Select the layout."
+msgstr ""
+
+#: admin/admin.php:418
+msgid "Edit widgets"
+msgstr ""
+
+#: admin/admin.php:421
+msgid "Home: "
+msgstr ""
+
+#: admin/admin.php:423
+#: admin/admin.php:435
+msgid "2 columns, left sidebar"
+msgstr ""
+
+#: admin/admin.php:424
+#: admin/admin.php:436
+msgid "2 columns, right sidebar"
+msgstr ""
+
+#: admin/admin.php:425
+#: admin/admin.php:437
+msgid "3 columns, sidebar on both sides"
+msgstr ""
+
+#: admin/admin.php:433
+msgid "Post: "
+msgstr ""
+
+#: admin/admin.php:443
+msgid "Select the width of sidebar in posts. (Only in 2 columns)"
+msgstr ""
+
+#: admin/admin.php:447
+msgid "Slim (Default, 180px)"
+msgstr ""
+
+#: admin/admin.php:448
+msgid "Normal (260px)"
+msgstr ""
+
+#: admin/admin.php:454
+msgid "Select the post previews layout that apply to home page & archive pages."
+msgstr ""
+
+#: admin/admin.php:458
+msgid "Full"
+msgstr ""
+
+#: admin/admin.php:459
+msgid "Excerpt & Thumbnails"
+msgstr ""
+
+#: admin/admin.php:460
+msgid "Only Title"
+msgstr ""
+
+#: admin/admin.php:464
+msgid "Font"
+msgstr ""
+
+#: admin/admin.php:468
+msgid "Choose the font you like."
+msgstr ""
+
+#: admin/admin.php:472
+msgid "Meiryo (Default, Japanese)"
+msgstr ""
+
+#: admin/admin.php:473
+msgid "Segoe UI (Windows Vista/7)"
+msgstr ""
+
+#: admin/admin.php:474
+msgid "Helvetica/Arial (sans serif)"
+msgstr ""
+
+#: admin/admin.php:475
+msgid "Georgia (serif)"
+msgstr ""
+
+#: admin/admin.php:476
+msgid "Lucida Grande/Sans (Mac/Windows)"
+msgstr ""
+
+#: admin/admin.php:482
+msgid "Navigation"
+msgstr ""
+
+#: admin/admin.php:483
+msgid "Select the way of navigation."
+msgstr ""
+
+#: admin/admin.php:487
+msgid "Built in theme"
+msgstr ""
+
+#: admin/admin.php:488
+msgid "Plugin (WP-PageNavi)"
+msgstr ""
+
+#: admin/admin.php:489
+msgid "WordPress Default"
+msgstr ""
+
+#: admin/admin.php:495
+#: admin/admin.php:616
+msgid "You can also enable AJAX, users can turn to other pages without refreshing."
+msgstr ""
+
+#: admin/admin.php:495
+#: admin/admin.php:591
+msgid "&lowast; Not compatible with Internet Explorer (IE) 8 and below."
+msgstr ""
+
+#: admin/admin.php:505
+msgid "Enable Auto-Load"
+msgstr ""
+
+#: admin/admin.php:511
+msgid "Sharing Button"
+msgstr ""
+
+#: admin/admin.php:512
+msgid "Display sharing buttons in your articles."
+msgstr ""
+
+#: admin/admin.php:522
+msgid "Facebook"
+msgstr ""
+
+#: admin/admin.php:530
+msgid "Google +1"
+msgstr ""
+
+#: admin/admin.php:538
+msgid "Plurk"
+msgstr ""
+
+#: admin/admin.php:546
+msgid "Twitter"
+msgstr ""
+
+#: admin/admin.php:554
+msgid "Other sites (AddToAny)"
+msgstr ""
+
+#: admin/admin.php:559
+msgid "Custom code:"
+msgstr ""
+
+#: admin/admin.php:569
+msgid "Select the way displaying trackback/pingback. \"Separate from comments\" doesn't take effect when you choose 3 columns layout."
+msgstr ""
+
+#: admin/admin.php:574
+msgid "Separate from comments"
+msgstr ""
+
+#: admin/admin.php:575
+msgid "Disable"
+msgstr ""
+
+#: admin/admin.php:581
+msgid "Reply"
+msgstr ""
+
+#: admin/admin.php:582
+msgid "Add \"@username\" before every reply."
+msgstr ""
+
+#: admin/admin.php:590
+msgid "AJAX"
+msgstr ""
+
+#: admin/admin.php:591
+msgid "Let users submit/re-edit their comments without refreshing pages. (Original by Willin Kan.)"
+msgstr ""
+
+#: admin/admin.php:602
+msgid "Enable Re-edit Feature"
+msgstr ""
+
+#: admin/admin.php:610
+msgid "Restriction of submission: "
+msgstr ""
+
+#: admin/admin.php:611
+msgid " sec (0: Disable)"
+msgstr ""
+
+#: admin/admin.php:625
+msgid "Notify the author of parent comment via email when replied. (Original by Willin Kan.)"
+msgstr ""
+
+#: admin/admin.php:638
+msgid "From: "
+msgstr ""
+
+#: admin/admin.php:646
+msgid "Author Information"
+msgstr ""
+
+#: admin/admin.php:647
+msgid "Display the information of author."
+msgstr ""
+
+#: admin/admin.php:657
+msgid "Name"
+msgstr ""
+
+#: admin/admin.php:665
+msgid "Avatar"
+msgstr ""
+
+#: admin/admin.php:673
+msgid "Description"
+msgstr ""
+
+#: admin/admin.php:678
+msgid "To use social network, please fill in the values below."
+msgstr ""
+
+#: admin/admin.php:681
+msgid "Facebook Link: "
+msgstr ""
+
+#: admin/admin.php:694
+msgid "Plurk ID: "
+msgstr ""
+
+#: admin/admin.php:707
+msgid "Twitter ID: "
+msgstr ""
+
+#: admin/admin.php:718
+msgid "RSS link is optional, default is: "
+msgstr ""
+
+#: admin/admin.php:721
+msgid "RSS: "
+msgstr ""
+
+#: admin/admin.php:733
+msgid "Footer Menu"
+msgstr ""
+
+#: admin/admin.php:734
+msgid "Display the menu in footer."
+msgstr ""
+
+#: admin/admin.php:742
+msgid "Footer Information"
+msgstr ""
+
+#: admin/admin.php:743
+msgid "Display the custom information in footer. Default is \"Copyright &copy; 2011 Your Site\"."
+msgstr ""
+
+#: admin/admin.php:750
+msgid "Ads (Footer)"
+msgstr ""
+
+#: admin/admin.php:751
+msgid "To display your ads in footer, please enter the ads code below. (Max width is 960px)"
+msgstr ""
+
